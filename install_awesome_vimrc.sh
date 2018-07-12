@@ -1,6 +1,6 @@
 #!/bin/sh
 set -e
-
+set none
 cd ~/.vim_runtime
 
 echo 'set runtimepath+=~/.vim_runtime

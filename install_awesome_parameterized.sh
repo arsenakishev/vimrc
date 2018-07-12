@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-
+set fake
 echo 'Installing Awesome Vim from '$1
 cd $1
 
